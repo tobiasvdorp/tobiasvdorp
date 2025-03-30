@@ -1,6 +1,5 @@
-# Hi, I'm Tobias
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=tobiasvdorp)](https://git.io/typing-svg)
+# Hi, I'm [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=tobiasvdorp)](https://git.io/typing-svg)
+I'm a front-end developer based in The Netherlands.
 
 ## Visitors on this page
 
