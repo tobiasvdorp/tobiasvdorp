@@ -22,6 +22,15 @@ I'm a front-end developer based in The Netherlands.
 Time tracking started on March 31, 2025.
 
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript   12 mins         █████████████░░░░░░░░░░░░   51.89 %
+YAML         5 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.06 %
+HTML         3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.10 %
+Markdown     2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
