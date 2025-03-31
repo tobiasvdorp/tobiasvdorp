@@ -3,7 +3,7 @@ name: Update WakaTime stats
 on:
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
+    # Every day
     - cron: "0 0 * * *"
 
 jobs:
@@ -11,6 +11,7 @@ jobs:
     name: Update WakaTime DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master # this action name
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          TIME_RANGE: all_time

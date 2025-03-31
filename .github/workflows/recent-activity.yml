@@ -1,7 +1,8 @@
 name: Update recent activity
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    # Every day
+    - cron: "0 0 * * *"
   workflow_dispatch:
 jobs:
   build:
