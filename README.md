@@ -2,11 +2,17 @@
 
 I'm a front-end developer based in The Netherlands.
 
+## My portfolio
+
+You can check out my portfolio at [tobiasvandorp.nl](https://www.tobiasvandorp.nl/)
+
 ## Visitors on this page
 
 ![Visitor Count](https://profile-counter.glitch.me/tobiasvdorp/count.svg)
 
-## Recent activity
+## Recent (public) activity
+
+I mainly work on private projects and in organizations that don't publicly share their repositories, but you can see some of my public activity below:
 
 <!--START_SECTION:activity-->
 
