@@ -13,11 +13,11 @@ Time tracking started on March 31, 2025.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    11 hrs 24 mins  █████████████████▒░░░░░░░   69.57 %
-JSON          1 hr 36 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
-JavaScript    1 hr 31 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
-YAML          48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
-Bash          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+TypeScript    12 hrs 32 mins  █████████████████▒░░░░░░░   68.94 %
+JSON          1 hr 36 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
+JavaScript    1 hr 31 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
+YAML          48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+Bash          42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
 ```
 
 <!--END_SECTION:waka-->
